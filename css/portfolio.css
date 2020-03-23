@@ -1,0 +1,77 @@
+*{
+	margin:0;
+}
+body {
+	background-color:#dedede;
+
+}
+.header {
+	width: 100%;
+}
+
+.header .nav {
+	background-color: blue;
+	padding: 10px 0;
+	width: 100%;
+}
+.header .nav .miul {
+	margin:0 auto;
+	width: 900px;
+}
+.nav .miul .list {
+	color:white;
+	display: inline-block;
+	font-size: 22px;
+	padding: 12px 12px;
+}
+.nav .miul .select {
+	background-color: black;
+}
+.header .profile {
+	background-image: url('../img/Copia de Tubería-estructural_Acesco_1.jpg');
+	background-size:cover; 
+}
+.profile .figure {
+	margin: 0 auto;
+	padding: 10px 0;
+	text-align: center;
+	width: 500px;
+}
+.profile .figure .miavatar {
+	border-radius: 50%;
+	border: 10px solid white; 
+	width: 50%;
+}
+main{
+	background-color:white;
+	width: 100%;
+}
+main .sections {
+	margin:0 auto;
+	padding: 20px 0;
+	width: 900px;
+}
+main .sections .miheader {
+	background-color:orange;
+	margin-bottom: 10px;
+}
+	.sections .miheader h2 {
+		color: white;
+		padding: 10px 5px;
+	}
+.sections .mishabilidadescont{
+	overflow: hidden;
+}
+.sections .mishabilidadescont .uliz {
+	width: 300px;
+	float: left;
+}
+.sections .mishabilidadescont .ulder {
+	width: 300px;
+	float: right;
+}
+
+
+
+
+
